@@ -1,4 +1,4 @@
-### Hi there 👋
+![puppies running](https://github.com/hdchinh/hdchinh/raw/master/puppies.gif)
 
 <!--
 **hdchinh/hdchinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

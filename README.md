@@ -1,4 +1,4 @@
-![puppies running](https://github.com/hdchinh/hdchinh/raw/master/puppies.gif)
+![puppies running](https://raw.githubusercontent.com/hdchinh/hdchinh/main/puppies.gif)
 
 <!--
 **hdchinh/hdchinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
